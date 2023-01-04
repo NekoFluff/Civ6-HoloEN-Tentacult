@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="utf-8"?>
+<GameData>
+	<IconTextureAtlases>
+		<!--Leader Icons-->
+
+		<Row Name="ICON_ATLAS_LEADER_NINOMAE_INANIS" IconSize="32"  IconsPerRow="1" IconsPerColumn="1" Filename="ICON_LEADER_NINOMAE_INANIS_32.dds"/>
+		<Row Name="ICON_ATLAS_LEADER_NINOMAE_INANIS" IconSize="45"  IconsPerRow="1" IconsPerColumn="1" Filename="ICON_LEADER_NINOMAE_INANIS_45.dds"/>
+		<Row Name="ICON_ATLAS_LEADER_NINOMAE_INANIS" IconSize="50"  IconsPerRow="1" IconsPerColumn="1" Filename="ICON_LEADER_NINOMAE_INANIS_50.dds"/>
+		<Row Name="ICON_ATLAS_LEADER_NINOMAE_INANIS" IconSize="55"  IconsPerRow="1" IconsPerColumn="1" Filename="ICON_LEADER_NINOMAE_INANIS_55.dds"/>
+		<Row Name="ICON_ATLAS_LEADER_NINOMAE_INANIS" IconSize="64"  IconsPerRow="1" IconsPerColumn="1" Filename="ICON_LEADER_NINOMAE_INANIS_64.dds"/>
+		<Row Name="ICON_ATLAS_LEADER_NINOMAE_INANIS" IconSize="80"  IconsPerRow="1" IconsPerColumn="1" Filename="ICON_LEADER_NINOMAE_INANIS_80.dds"/>
+		<Row Name="ICON_ATLAS_LEADER_NINOMAE_INANIS" IconSize="256" IconsPerRow="1" IconsPerColumn="1" Filename="ICON_LEADER_NINOMAE_INANIS_256.dds"/>
+
+		<!--Civ Icons-->
+
+		<Row Name="ICON_ATLAS_CIV_HOLOEN_TENTACULT" IconSize="32"  IconsPerRow="1" IconsPerColumn="1" Filename="ICON_CIV_NINOMAE_INANIS_32.dds"/>
+		<Row Name="ICON_ATLAS_CIV_HOLOEN_TENTACULT" IconSize="45"  IconsPerRow="1" IconsPerColumn="1" Filename="ICON_CIV_NINOMAE_INANIS_45.dds"/>
+		<Row Name="ICON_ATLAS_CIV_HOLOEN_TENTACULT" IconSize="50"  IconsPerRow="1" IconsPerColumn="1" Filename="ICON_CIV_NINOMAE_INANIS_50.dds"/>
+		<Row Name="ICON_ATLAS_CIV_HOLOEN_TENTACULT" IconSize="55"  IconsPerRow="1" IconsPerColumn="1" Filename="ICON_CIV_NINOMAE_INANIS_55.dds"/>
+		<Row Name="ICON_ATLAS_CIV_HOLOEN_TENTACULT" IconSize="64"  IconsPerRow="1" IconsPerColumn="1" Filename="ICON_CIV_NINOMAE_INANIS_64.dds"/>
+		<Row Name="ICON_ATLAS_CIV_HOLOEN_TENTACULT" IconSize="80"  IconsPerRow="1" IconsPerColumn="1" Filename="ICON_CIV_NINOMAE_INANIS_80.dds"/>
+		<Row Name="ICON_ATLAS_CIV_HOLOEN_TENTACULT" IconSize="256" IconsPerRow="1" IconsPerColumn="1" Filename="ICON_CIV_NINOMAE_INANIS_256.dds"/>
+	</IconTextureAtlases>
+
+	<IconDefinitions>
+		<!--Leader Icons-->
+		<Row Name="ICON_LEADER_NINOMAE_INANIS" Atlas="ICON_ATLAS_LEADER_NINOMAE_INANIS" Index="0"/>
+
+		<!--Civilization Icons-->
+		<Row Name="ICON_CIVILIZATION_HOLOEN_TENTACULT" Atlas="ICON_ATLAS_CIV_HOLOEN_TENTACULT" Index="0"/>
+
+
+		<!--Building Icons-->
+
+	</IconDefinitions>
+</GameData>

@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="utf-8"?>
+<SoundBanksInfo Platform="Windows" BasePlatform="Windows" SchemaVersion="10" SoundbankVersion="113">
+	<RootPaths>
+		<ProjectRoot>C:\Users\Alex\Documents\WwiseProjects\Ina\</ProjectRoot>
+		<SourceFilesRoot>C:\Users\Alex\Documents\WwiseProjects\Ina\.cache\Windows\</SourceFilesRoot>
+		<SoundBanksRoot>C:\Users\Alex\Documents\WwiseProjects\Ina\GeneratedSoundBanks\Windows\</SoundBanksRoot>
+		<ExternalSourcesInputFile></ExternalSourcesInputFile>
+		<ExternalSourcesOutputRoot>C:\Users\Alex\Documents\WwiseProjects\Ina\GeneratedSoundBanks\Windows\</ExternalSourcesOutputRoot>
+	</RootPaths>
+	<DialogueEvents/>
+	<StreamedFiles>
+		<File Id="744679944" Language="SFX">
+			<ShortName>VIOLET.wav</ShortName>
+			<Path>SFX\VIOLET_4B8CC0C5.wem</Path>
+		</File>
+	</StreamedFiles>
+	<MediaFilesNotInAnyBank/>
+	<SoundBanks>
+		<SoundBank Id="1355168291" Language="SFX">
+			<ShortName>Init</ShortName>
+			<Path>Init.bnk</Path>
+		</SoundBank>
+		<SoundBank Id="3200788275" Language="SFX">
+			<ShortName>Holoen_Tentacult_Soundbank</ShortName>
+			<Path>Holoen_Tentacult_Soundbank.bnk</Path>
+			<IncludedEvents>
+				<Event Id="2442011824" Name="Pause_Music_HOLOEN_TENTACULT"/>
+				<Event Id="125459316" Name="Play_Leader_Music_HOLOEN_TENTACULT"/>
+				<Event Id="3222257422" Name="Play_Music_HOLOEN_TENTACULT"/>
+				<Event Id="1757258411" Name="Resume_Music_HOLOEN_TENTACULT"/>
+				<Event Id="2575828374" Name="Start_Music_HOLOEN_TENTACULT"/>
+				<Event Id="3441206866" Name="Stop_Leader_Music_HOLOEN_TENTACULT"/>
+				<Event Id="4055372344" Name="Stop_Music_HOLOEN_TENTACULT"/>
+			</IncludedEvents>
+			<ReferencedStreamedFiles>
+				<File Id="744679944"/>
+			</ReferencedStreamedFiles>
+		</SoundBank>
+	</SoundBanks>
+</SoundBanksInfo>

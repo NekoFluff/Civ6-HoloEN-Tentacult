@@ -1,0 +1,15 @@
+Event	ID	Name			Wwise Object Path	Notes
+	125459316	Play_Leader_Music_HOLOEN_TENTACULT			\Music\Play_Leader_Music_HOLOEN_TENTACULT	
+	1757258411	Resume_Music_HOLOEN_TENTACULT			\Music\Resume_Music_HOLOEN_TENTACULT	
+	2442011824	Pause_Music_HOLOEN_TENTACULT			\Music\Pause_Music_HOLOEN_TENTACULT	
+	2575828374	Start_Music_HOLOEN_TENTACULT			\Music\Start_Music_HOLOEN_TENTACULT	
+	3222257422	Play_Music_HOLOEN_TENTACULT			\Music\Play_Music_HOLOEN_TENTACULT	
+	3441206866	Stop_Leader_Music_HOLOEN_TENTACULT			\Music\Stop_Leader_Music_HOLOEN_TENTACULT	
+	4055372344	Stop_Music_HOLOEN_TENTACULT			\Music\Stop_Music_HOLOEN_TENTACULT	
+
+Game Parameter	ID	Name			Wwise Object Path	Notes
+	373350295	Game_Location			\Default Work Unit\Game_Location	
+
+Streamed Audio	ID	Name	Audio source file	Generated audio file	Wwise Object Path	Notes
+	744679944	VIOLET2	C:\Users\Alex\Documents\WwiseProjects\Ina\.cache\Windows\SFX\VIOLET_4B8CC0C5.wem	744679944.wem	\Interactive Music Hierarchy\Default Work Unit\Holoen_Tentacult_Music\Holoen_Tentacult_Diplomatic_Music\Holoen_Tentacult_Diplomatic_Leader_Music1\VIOLET2	
+
